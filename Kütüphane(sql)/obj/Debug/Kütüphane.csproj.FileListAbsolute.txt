@@ -1,0 +1,17 @@
+C:\Users\aemre\Desktop\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\aemre\Desktop\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\aemre\Desktop\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.Anasayfa.resources
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.Personel.resources
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.Emanet.resources
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.Giriş.resources
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.Kitaplar.resources
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.Kullanıcı.resources
+C:\Users\aemre\Desktop\Kütüphane\obj\Debug\Kütüphane.Üyeler.resources
